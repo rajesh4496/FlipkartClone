@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'flipkart-clone';
+
+  login(){
+    console.log("Logged in");
+  }
+
+  more(){
+    console.log("clicked on more");
+  }
 }
