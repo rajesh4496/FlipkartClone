@@ -1,0 +1,18 @@
+.right-nav{
+    display: flex;
+    margin: auto;
+    margin-right: 10vw;
+}
+
+.search-bx {
+   border-radius: 0;
+   /* margin: 0 auto;
+    */
+   /* margin-left: 16vw; */
+    width: 25vw;
+}
+
+.left-nav {
+    display: flex;
+    margin:0 auto;
+}
